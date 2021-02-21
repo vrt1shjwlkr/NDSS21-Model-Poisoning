@@ -13,5 +13,3 @@ Various evaluation dimensions are below
 
 ## Requirements
 
-
-### Citation
