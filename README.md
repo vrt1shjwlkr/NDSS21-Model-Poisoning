@@ -1,4 +1,4 @@
-# A General Framework to Evaluate Robust Aggregation Algorithms
+# A General Framework to Evaluate Robustness of Aggregation Algorithms in Federated Learning
 ### [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defensesfor Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/2021-498-paper.pdf)
 by [Virat Shejwalkar](https://people.cs.umass.edu/~vshejwalkar/) and [Amir Houmansadr](https://people.cs.umass.edu/~amir/index.php) published at [ISOC Network and Distributed Systems Security Symposium, (NDSS) 2021](https://www.ndss-symposium.org/)
 
