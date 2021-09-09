@@ -10,6 +10,11 @@ import torch.nn.parallel
 import torch.optim as optim
 import models.cifar as models
 
+sys.path.insert(0,'/./../utils/')
+from logger import *
+from eval import *
+from misc import *
+
 class cifar_mlp(nn.Module):
     def __init__(self, ninputs=3 * 32 * 32, num_classes=10):
         self.ninputs = ninputs
