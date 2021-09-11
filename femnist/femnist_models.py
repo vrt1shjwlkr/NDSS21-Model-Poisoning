@@ -9,7 +9,7 @@ import torch.nn as nn
 import torch.nn.parallel
 import torch.optim as optim
 
-sys.path.insert(0, '/home/vshejwalkar/fed-quant-robustness/code/utils/')
+sys.path.insert(0, './../utils/')
 from logger import *
 from eval import *
 from misc import *
