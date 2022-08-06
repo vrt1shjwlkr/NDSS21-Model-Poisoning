@@ -1,10 +1,12 @@
 # A General Framework to Evaluate Robustness of Aggregation Algorithms in Federated Learning
-### [Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defensesfor Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/2021-498-paper.pdf)
-by [Virat Shejwalkar](https://people.cs.umass.edu/~vshejwalkar/) and [Amir Houmansadr](https://people.cs.umass.edu/~amir/index.php) published at [ISOC Network and Distributed Systems Security Symposium, (NDSS) 2021](https://www.ndss-symposium.org/)
 
 ## Motivation
+This repository provides a code to investigate the security of a given federated learning algorithm, and especially the security provided by _robust aggregation algorithms_ that are used to aggregate the client updates in federated learning. The code can be used to reproduce results and conclusions from two of our works: [[1] Manipulating the Byzantine: Optimizing Model Poisoning Attacks and Defensesfor Federated Learning](https://www.ndss-symposium.org/wp-content/uploads/2021-498-paper.pdf) and [[2] Back to the drawing board: A critical evaluation of poisoning attacks on production federated learning](https://arxiv.org/pdf/2108.10241.pdf).
+
+Our attacks are untargeted poisoning attacks, i.e., they aim to reduce the accuracy of the global model on all of the test inputs. For a detailed review of different types of attacks please refer to our thorough review paper [2](https://arxiv.org/pdf/2108.10241.pdf).
 
 ## Result Highlights
+
 
 ## Understanding the code and using the notebooks
 We have given the code in the form of notebooks which are self-explanatory, because the description of each cell is given in the respective notebooks. 
