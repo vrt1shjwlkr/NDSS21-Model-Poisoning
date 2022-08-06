@@ -24,4 +24,13 @@ Various evaluation dimensions are below
   booktitle={NDSS},
   year={2021}
 }
+
+@inproceedings{shejwalkar2022back,
+  title={Back to the drawing board: A critical evaluation of poisoning attacks on production federated learning},
+  author={Shejwalkar, Virat and Houmansadr, Amir and Kairouz, Peter and Ramage, Daniel},
+  booktitle={2022 IEEE Symposium on Security and Privacy (SP)},
+  pages={1354--1371},
+  year={2022},
+  organization={IEEE}
+}
 ```
